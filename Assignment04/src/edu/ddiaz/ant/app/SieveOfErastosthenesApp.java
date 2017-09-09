@@ -6,7 +6,7 @@ package edu.ddiaz.ant.app;
 /**
  * @author Daniel Diaz
  * @version 2017.09.09
- *  * 
+ * 
  */
 public class SieveOfErastosthenesApp {
 
@@ -15,7 +15,7 @@ public class SieveOfErastosthenesApp {
 	 */
 	public static void main(String[] args) {
 		// Say hi
-		System.out.println("Hello there!");
+		System.out.println("Hello there!!");
 		System.out.println("Welcome to the Sieve of Erastosthenes App");
 
 		// show max arg
