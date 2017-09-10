@@ -1,13 +1,11 @@
 /**
- * 
- */
-package edu.ddiaz.ant.app;
-
-/**
  * @author Daniel Diaz
  * @version 2017.09.09
  *          
  */
+package edu.ddiaz.ant.app;
+
+
 public class SieveOfErastosthenesApp {
 
 	/**
