@@ -1,7 +1,7 @@
 /**
  * @author Daniel Diaz
- * @version 2017.09.09
- *          
+ * @version 1
+ * @since 2017/09/09         
  */
 package edu.ddiaz.ant.app;
 
